@@ -1,0 +1,36 @@
+name: Bug report
+description: Something is wrong or misleading in portsight's output
+labels: [bug]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: The command you ran, what you expected, and what you got.
+    validations:
+      required: true
+  - type: textarea
+    id: output
+    attributes:
+      label: Output
+      description: Paste the output. `--json` is the most useful. Redact host names or command lines you'd rather not share.
+      render: text
+  - type: input
+    id: version
+    attributes:
+      label: portsight version
+      placeholder: portsight --version
+    validations:
+      required: true
+  - type: dropdown
+    id: os
+    attributes:
+      label: Operating system
+      options: [Windows 11, Windows 10, Windows Server, Linux, macOS, Other]
+    validations:
+      required: true
+  - type: input
+    id: details
+    attributes:
+      label: Python version, Docker setup, system language
+      placeholder: "3.12, Docker Desktop WSL2, German Windows"

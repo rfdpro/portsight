@@ -1,0 +1,86 @@
+<svg class="rich-terminal" viewBox="0 0 1190 220.79999999999998" xmlns="http://www.w3.org/2000/svg">
+    <!-- Generated with Rich https://www.textualize.io -->
+    <style>
+
+    @font-face {
+        font-family: "Fira Code";
+        src: local("FiraCode-Regular"),
+                url("https://cdnjs.cloudflare.com/ajax/libs/firacode/6.2.0/woff2/FiraCode-Regular.woff2") format("woff2"),
+                url("https://cdnjs.cloudflare.com/ajax/libs/firacode/6.2.0/woff/FiraCode-Regular.woff") format("woff");
+        font-style: normal;
+        font-weight: 400;
+    }
+    @font-face {
+        font-family: "Fira Code";
+        src: local("FiraCode-Bold"),
+                url("https://cdnjs.cloudflare.com/ajax/libs/firacode/6.2.0/woff2/FiraCode-Bold.woff2") format("woff2"),
+                url("https://cdnjs.cloudflare.com/ajax/libs/firacode/6.2.0/woff/FiraCode-Bold.woff") format("woff");
+        font-style: bold;
+        font-weight: 700;
+    }
+
+    .terminal-1939802091-matrix {
+        font-family: Fira Code, monospace;
+        font-size: 20px;
+        line-height: 24.4px;
+        font-variant-east-asian: full-width;
+    }
+
+    .terminal-1939802091-title {
+        font-size: 18px;
+        font-weight: bold;
+        font-family: arial;
+    }
+
+    .terminal-1939802091-r1 { fill: #ff6b6b }
+.terminal-1939802091-r2 { fill: #c5c8c6 }
+.terminal-1939802091-r3 { fill: #ff6b6b;font-weight: bold }
+.terminal-1939802091-r4 { fill: #c5d0e0 }
+.terminal-1939802091-r5 { fill: #a95050 }
+    </style>
+
+    <defs>
+    <clipPath id="terminal-1939802091-clip-terminal">
+      <rect x="0" y="0" width="1170.1999999999998" height="169.79999999999998" />
+    </clipPath>
+    <clipPath id="terminal-1939802091-line-0">
+    <rect x="0" y="1.5" width="1171.2" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1939802091-line-1">
+    <rect x="0" y="25.9" width="1171.2" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1939802091-line-2">
+    <rect x="0" y="50.3" width="1171.2" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1939802091-line-3">
+    <rect x="0" y="74.7" width="1171.2" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1939802091-line-4">
+    <rect x="0" y="99.1" width="1171.2" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1939802091-line-5">
+    <rect x="0" y="123.5" width="1171.2" height="24.65"/>
+            </clipPath>
+    </defs>
+
+    <rect fill="#292929" stroke="rgba(255,255,255,0.35)" stroke-width="1" x="1" y="1" width="1188" height="218.8" rx="8"/><text class="terminal-1939802091-title" fill="#c5c8c6" text-anchor="middle" x="594" y="27">portsight&#160;--port&#160;3000</text>
+            <g transform="translate(26,22)">
+            <circle cx="0" cy="0" r="7" fill="#ff5f57"/>
+            <circle cx="22" cy="0" r="7" fill="#febc2e"/>
+            <circle cx="44" cy="0" r="7" fill="#28c840"/>
+            </g>
+        
+    <g transform="translate(9, 41)" clip-path="url(#terminal-1939802091-clip-terminal)">
+    
+    <g class="terminal-1939802091-matrix">
+    <text class="terminal-1939802091-r1" x="0" y="20" textLength="24.4" clip-path="url(#terminal-1939802091-line-0)">┌─</text><text class="terminal-1939802091-r1" x="24.4" y="20" textLength="488" clip-path="url(#terminal-1939802091-line-0)">────────────────────────────────────────</text><text class="terminal-1939802091-r1" x="524.6" y="20" textLength="109.8" clip-path="url(#terminal-1939802091-line-0)">port&#160;3000</text><text class="terminal-1939802091-r1" x="646.6" y="20" textLength="500.2" clip-path="url(#terminal-1939802091-line-0)">─────────────────────────────────────────</text><text class="terminal-1939802091-r1" x="1146.8" y="20" textLength="24.4" clip-path="url(#terminal-1939802091-line-0)">─┐</text><text class="terminal-1939802091-r2" x="1171.2" y="20" textLength="12.2" clip-path="url(#terminal-1939802091-line-0)">
+</text><text class="terminal-1939802091-r1" x="0" y="44.4" textLength="12.2" clip-path="url(#terminal-1939802091-line-1)">│</text><text class="terminal-1939802091-r1" x="1159" y="44.4" textLength="12.2" clip-path="url(#terminal-1939802091-line-1)">│</text><text class="terminal-1939802091-r2" x="1171.2" y="44.4" textLength="12.2" clip-path="url(#terminal-1939802091-line-1)">
+</text><text class="terminal-1939802091-r1" x="0" y="68.8" textLength="12.2" clip-path="url(#terminal-1939802091-line-2)">│</text><text class="terminal-1939802091-r3" x="36.6" y="68.8" textLength="73.2" clip-path="url(#terminal-1939802091-line-2)">in&#160;use</text><text class="terminal-1939802091-r1" x="1159" y="68.8" textLength="12.2" clip-path="url(#terminal-1939802091-line-2)">│</text><text class="terminal-1939802091-r2" x="1171.2" y="68.8" textLength="12.2" clip-path="url(#terminal-1939802091-line-2)">
+</text><text class="terminal-1939802091-r1" x="0" y="93.2" textLength="12.2" clip-path="url(#terminal-1939802091-line-3)">│</text><text class="terminal-1939802091-r4" x="36.6" y="93.2" textLength="902.8" clip-path="url(#terminal-1939802091-line-3)">listen&#160;TCP&#160;127.0.0.1&#160;pid=18244&#160;name=node.exe&#160;parent=pwsh.exe&#160;cmdline=node&#160;</text><text class="terminal-1939802091-r1" x="1159" y="93.2" textLength="12.2" clip-path="url(#terminal-1939802091-line-3)">│</text><text class="terminal-1939802091-r2" x="1171.2" y="93.2" textLength="12.2" clip-path="url(#terminal-1939802091-line-3)">
+</text><text class="terminal-1939802091-r1" x="0" y="117.6" textLength="12.2" clip-path="url(#terminal-1939802091-line-4)">│</text><text class="terminal-1939802091-r4" x="36.6" y="117.6" textLength="658.8" clip-path="url(#terminal-1939802091-line-4)">node_modules/vite/bin/vite.js&#160;--port&#160;3000&#160;state=LISTEN</text><text class="terminal-1939802091-r1" x="1159" y="117.6" textLength="12.2" clip-path="url(#terminal-1939802091-line-4)">│</text><text class="terminal-1939802091-r2" x="1171.2" y="117.6" textLength="12.2" clip-path="url(#terminal-1939802091-line-4)">
+</text><text class="terminal-1939802091-r1" x="0" y="142" textLength="12.2" clip-path="url(#terminal-1939802091-line-5)">│</text><text class="terminal-1939802091-r1" x="1159" y="142" textLength="12.2" clip-path="url(#terminal-1939802091-line-5)">│</text><text class="terminal-1939802091-r2" x="1171.2" y="142" textLength="12.2" clip-path="url(#terminal-1939802091-line-5)">
+</text><text class="terminal-1939802091-r1" x="0" y="166.4" textLength="24.4" clip-path="url(#terminal-1939802091-line-6)">└─</text><text class="terminal-1939802091-r1" x="24.4" y="166.4" textLength="451.4" clip-path="url(#terminal-1939802091-line-6)">─────────────────────────────────────</text><text class="terminal-1939802091-r5" x="488" y="166.4" textLength="183" clip-path="url(#terminal-1939802091-line-6)">portsight&#160;2.0.0</text><text class="terminal-1939802091-r1" x="683.2" y="166.4" textLength="463.6" clip-path="url(#terminal-1939802091-line-6)">──────────────────────────────────────</text><text class="terminal-1939802091-r1" x="1146.8" y="166.4" textLength="24.4" clip-path="url(#terminal-1939802091-line-6)">─┘</text><text class="terminal-1939802091-r2" x="1171.2" y="166.4" textLength="12.2" clip-path="url(#terminal-1939802091-line-6)">
+</text>
+    </g>
+    </g>
+</svg>
